@@ -1,2 +1,2 @@
-# 19541017
+# 195410172
 ini kolom deskripsi.
